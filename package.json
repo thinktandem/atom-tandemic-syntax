@@ -1,6 +1,7 @@
 {
   "name": "atom-tandemic-syntax",
   "theme": "syntax",
+  "author": "Mike Pirog <mike@thinktandem.io",
   "version": "0.2.0",
   "description": "Am ATOM syntax theme not based on monokai or material",
   "keywords": [
