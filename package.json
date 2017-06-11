@@ -1,0 +1,17 @@
+{
+  "name": "atom-tandemic-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Am ATOM syntax theme not based on monokai or material",
+  "keywords": [
+    "syntax",
+    "theme",
+    "material",
+    "monokai"
+  ],
+  "repository": "https://github.com/thinktandem/atom-tandemic-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
